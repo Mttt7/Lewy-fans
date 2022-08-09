@@ -63,6 +63,30 @@ body{
     border-radius: 10px;
 }
 
+.intro .left .text{
+    display: flex;
+    
+}
+
+.intro .left .text .letter{
+    font-size: 130px;
+    font-style: italic;
+    color: #DB0030;
+    font-family: 'Press Start 2P', cursive;
+    margin-right: 30px;
+    
+}
+
+.intro .left .text .letter:hover{
+    font-size: 130px;
+    font-style: italic;
+    color: #004D98;
+    font-family: 'Press Start 2P', cursive;
+    margin-right: 30px;
+    
+}
+
+
 /* VIDEO */
 
 .video-section{

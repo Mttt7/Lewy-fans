@@ -145,3 +145,32 @@ ul{
     ul a:active {
         color: blue;
     }
+
+
+    /* MAIN */
+    .main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #004D98;
+    }
+    .main .title{
+        font-family: 'Press Start 2P', cursive;
+        font-size: 70px;
+        padding: 24px;
+       
+    }
+
+    .main ul  {
+        font-size: 50px;
+        
+    }
+
+    .main ul li{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 50px 120px;
+        background-color: #DB0030;
+    }
